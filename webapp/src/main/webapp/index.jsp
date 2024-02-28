@@ -1,5 +1,5 @@
 <html>
-  <head><title>INDIA AT A GLANCE  </title></head>
+  <head><title>INDIA AT A GLANCE </title></head>
   <body bgcolor=skyblue>
     <h1> India has a unique culture and is one of the oldest and greatest civilizations of the world.
 India has achieved all-round socio-economic progress since its Independence. India covers an area of 32,87,263 sq. km,
