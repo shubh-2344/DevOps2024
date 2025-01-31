@@ -9,6 +9,9 @@ India stands apart from the rest of Asia, marked off as it is by mountains and t
 <title> MAHARASHTRA AT A GLANCE </title>
 <h2> Maharashtra, state of India, occupying a substantial portion of the Deccan plateau in the western peninsular part of the subcontinent.
 Its shape roughly resembles a triangle, with the 450-mile (725-km) western coastline forming the base and its interior narrowing to a blunt apex some 500 miles (800 km) to the east. Maharashtra is bounded by the Indian states of Gujarat to the northwest, Madhya Pradesh to the north, Chhattisgarh to the east, Telangana to the southeast,
-Karnataka to the south, and Goa to the southwest and by the union territory of Dadra and Nagar Haveli and the Arabian Sea to the west</h2>
+Karnataka to the south, and Goa to the southwest and by the union territory of Dadra and Nagar Haveli and the Arabian Sea to the west
+
+Maharashtra’s capital, Mumbai (formerly Bombay), is an island city on the western coast, connected to the mainland by roads and railways.Aptly called the gateway of India,
+Maharashtra is one of India’s biggest commercial and industrial centers, and it has played a significant role in the country’s social and political life.</h2>
   </body>
 </html>
