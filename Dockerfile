@@ -1,5 +1,5 @@
 # Pull base image 
-From Ubuntu
+From tomcat:9
 
 # Maintainer 
 MAINTAINER "shubhamtakalikar1@gmail.com" 
