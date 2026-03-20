@@ -1,5 +1,5 @@
-FROM tomcat:9.0
+FROM nginx:latest
 
-COPY target/*.war /usr/local/tomcat/webapps/
+COPY index.html /usr/share/nginx/html/
 
-EXPOSE 8080
+EXPOSE 80
